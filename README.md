@@ -49,4 +49,3 @@ Unfortunately, fitting your Stan model with **dfped**, there is currently no way
 ### What is the best way to ask a question or propose a new feature? 
 
 You can either open an issue on [github](https://github.com/artemis-toumazi/dfped) or write me an email to (artemis.toumazi@gmail.com).
-# dfped
