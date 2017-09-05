@@ -5,20 +5,19 @@
 
 The **dfped** R package provides an unified method for designing and analysing dose-finding trials in paediatrics, while bridging information from adults. 
 
-
 ### Description
 
 dfped package includes three extrapolation methods in order to calculate the dose range: linear, allometry and maturation adjustment, using pharmacokinetic (PK) data. To do this, it is assumed that target exposures are the same in both populations. The working model and prior distribution parameters of the dose-toxicity and dose-efficacy relationships can be obtained using early phase adult toxicity and efficacy data at several dose levels through dfped package. Priors are used into the dose finding process through a Bayesian model selection or adaptive priors, to facilitate adjusting the amount of prior information to differences between adults and children. This calibrates the model to adjust for misspecification if the adult and paediatric data are very different. User can use his/her own Bayesian model written in Stan code through the dfped package. A template of this model is proposed in the examples of the corresponding R functions in the package. Finally, in this package you can find a simulation function for one trial or for more than one trial. 
 
-#### Installation 
+#### Installation
 
-### Establish Version  
+### Establish Version
 
 A latest version of the package **dfped** is available on CRAN and can be loaded via
 
-```{r} 
+```{r}
 install.packages("dfped")
-library(dfped) 
+library(dfped)
 ```  
 
 ### Development Version 
@@ -26,8 +25,8 @@ To install the **dfped** package from GitHub, first make sure that you can insta
 
 ```{r}
 if (!require(devtools)){
-  install.packages("devtools") 
-  library(devtools) 
+  install.packages("devtools")
+  library(devtools)
 }
 
 install_github("artemis-toumazi/dfped")
@@ -42,7 +41,7 @@ help(dfped)
 
 #### FAQ
 
-### Can I avoid compiling Stan models? 
+### Can I avoid compiling Stan models?
 
 Unfortunately, fitting your Stan model with **dfped**, there is currently no way to avoid the compilation. 
 
