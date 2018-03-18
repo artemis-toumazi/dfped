@@ -23,7 +23,7 @@ weightCYPsum(age, percCYP)
 }
 
 \references{ 
-    Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research.
+    Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research, <doi:10.1177/0962280216671348>.
 } 
 
 \author{ 

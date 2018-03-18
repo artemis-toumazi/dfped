@@ -66,7 +66,7 @@ simulation(stanModel, scenarioTox, scenarioEff, nbSubjects,
 }    
 
 \references{
-Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research.
+Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adult information in early phase dose-finding paediatric studies, Statistical Methods in Medical Research, <doi:10.1177/0962280216671348>.
     
 Zohar, S., et al, (2011) An approach to meta-analysis of dose-finding studies, Statistics in Medicine.      
 }
