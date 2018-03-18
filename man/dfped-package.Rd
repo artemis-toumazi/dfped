@@ -12,10 +12,10 @@ A unified method for designing and analysing dose-finding trials in paediatrics,
 }
 
 \author{ 
-Artemis Toumazi \email{artemis.toumazi@inserm.fr}, Caroline Petit \email{caroline.petit@crc.jussieu.fr},
+Artemis Toumazi \email{artemis.toumazi@gmail.com}, Caroline Petit \email{caroline.petit@crc.jussieu.fr},
 Sarah Zohar \email{sarah.zohar@inserm.fr} 
 
-Maintainer: Artemis Toumazi \email{artemis.toumazi@inserm.fr} 
+Maintainer: Artemis Toumazi \email{artemis.toumazi@gmail.com} 
 }
 
 \references{ 

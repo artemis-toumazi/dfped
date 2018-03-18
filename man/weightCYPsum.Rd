@@ -27,7 +27,7 @@ weightCYPsum(age, percCYP)
 } 
 
 \author{ 
-    Artemis Toumazi \email{artemis.toumazi@inserm.fr},
+    Artemis Toumazi \email{artemis.toumazi@gmail.com},
     Caroline Petit \email{caroline.petit@crc.jussieu.fr}, 
     Sarah Zohar \email{sarah.zohar@inserm.fr} 
 } 

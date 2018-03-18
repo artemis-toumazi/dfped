@@ -71,7 +71,7 @@ Petit, C., et al, (2016) Unified approach for extrapolation and bridging of adul
 Zohar, S., et al, (2011) An approach to meta-analysis of dose-finding studies, Statistics in Medicine.      
 }
 
-\author{Artemis Toumazi \email{artemis.toumazi@inserm.fr},
+\author{Artemis Toumazi \email{artemis.toumazi@gmail.com},
         Caroline Petit \email{caroline.petit@crc.jussieu.fr},
         Sarah Zohar \email{sarah.zohar@inserm.fr}  
         }
