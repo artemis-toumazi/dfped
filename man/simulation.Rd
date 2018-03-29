@@ -191,6 +191,6 @@ Zohar, S., et al, (2011) An approach to meta-analysis of dose-finding studies, S
 
     simulation(stan_model, scenario_tox, scenario_eff, nbSubjects,
                nbSimu, skeleton_tox, skeleton_eff, targetTox, targetEff,
-               cohortSize, startingDose, sd, mu, TRUE, "simulation")
+               cohortSize, startingDose, sd, mu, TRUE, tempfile())
 }
 }
